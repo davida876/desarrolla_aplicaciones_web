@@ -16,7 +16,8 @@
         $resultado = $conexion->query($sql);
         $registro = $resultado->fetch_assoc();
     ?>
-        <?php include 'menu.php'; ?>
+    <?php include 'menu.php'; ?>
+    <br>
     <div class="container">
         <div class="row">
             <div class="col-12">

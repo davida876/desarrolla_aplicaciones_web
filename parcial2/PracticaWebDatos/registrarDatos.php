@@ -9,7 +9,8 @@
     <script src="js/jquery-3.6.1.js"></script>
 </head>
 <body>
-<?php include 'menu.php'; ?>
+    <?php include 'menu.php'; ?>
+    <br>
     <div class="container">
         <div class="row">
             <div class="col-12">
